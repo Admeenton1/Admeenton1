@@ -1,5 +1,5 @@
 - 👋 Hello! I am Suleiman Adisa Mumeen
-- 👀 I’m interested in Data Science, Data Analytics and artificial intelligence projects.
+- 👀 I’m interested in Data Science, Data Analytics, artificial intelligence projects, Nanotechnology and chemoinformatics
 - 🌱 I’m currently learning advance data analytics, data science, artificial intelligence and chemoinformatics
 - 💞️ I’m looking to collaborate on data science, artificial intelligence and computer-aided drug discovery projects.
 - 📫 How to reach me: mumeenadisa24@gmail.com    +2347065386293
